@@ -11,8 +11,14 @@ A **production-ready demonstration** of AI agents working together to deliver ex
 - **AI Models**: OpenAI GPT-4 + Google Gemini 2.0-flash
 - **Agent Coordination**: Sequential, Parallel, and Conditional execution modes
 
+## 🧠 Agent Workflow Diagram
+
+Below is the visual workflow for our customer support agents:
+
+![Agent workflow](assets/agent_workflow.png)
+
 ## 🚀 Quick Start
-![alt text](<Untitled diagram-2025-10-22-141447.png>)
+
 ### 1. Set up Environment
 ```bash
 # Activate virtual environment
