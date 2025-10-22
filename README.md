@@ -12,7 +12,7 @@ A **production-ready demonstration** of AI agents working together to deliver ex
 - **Agent Coordination**: Sequential, Parallel, and Conditional execution modes
 
 ## 🚀 Quick Start
-
+![alt text](<Untitled diagram-2025-10-22-141447.png>)
 ### 1. Set up Environment
 ```bash
 # Activate virtual environment
